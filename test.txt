@@ -1,5 +1,7 @@
 11111111111111
 这是一个需要合并的文件
+这是mergedemo的新增内容
+
 public class Main {
 	public void main(String args[]) {
 		System.out.print("hello")
